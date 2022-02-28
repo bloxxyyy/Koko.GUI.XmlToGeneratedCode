@@ -62,8 +62,6 @@ void GenerateFileInformation(FileStream fs, string filename, string xmlPath) {
 	using var fileStream = File.OpenText(xmlPath);
 	using XmlReader reader = XmlReader.Create(fileStream, settings);
 
-	var currentParent = "GUI.Gui";
-
 	var start = "using Microsoft.Xna.Framework;\nusing Koko.RunTimeGui;\nusing Koko.RunTimeGui.Gui.Initable_Components;\n\nnamespace Koko.Generated { \npublic class " + filename + " : IInitable { \npublic void Init() {\n";
 	var end = "}\n}\n}\n";
 	var writestart = new UTF8Encoding(true).GetBytes(start);
@@ -186,3 +184,5 @@ string EndTag(XmlReader reader, IComponent componentType) {
 
     return "";
 }
+
+Environment.Exit(0); // force exit

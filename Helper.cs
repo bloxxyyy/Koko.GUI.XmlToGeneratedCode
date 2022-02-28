@@ -9,7 +9,7 @@ internal static class Helper {
     internal static int GetIntergerValue(string margin) {
         if (margin != null) {
             try {
-                return Int32.Parse(margin);
+                return int.Parse(margin);
             } catch (FormatException e) {
                 Console.WriteLine(e.Message);
             }
