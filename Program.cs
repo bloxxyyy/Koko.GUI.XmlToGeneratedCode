@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Xml;
 
-var projectPath = Directory.GetCurrentDirectory();
+var projectPath = AppDomain.CurrentDomain.BaseDirectory + "..\\..\\..";
 
 string Text = "";
 
