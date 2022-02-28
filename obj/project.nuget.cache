@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgIjmivmXk36xZZbsKVYrbinARxoYZdBgJKS7fyygPFpDswXWFYOBB7MVvVwypDgKTuG9FlyzZfNAyr6F9spkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mnnop\\Documents\\BOC\\Koko.Gui.XmlToGeneratedCode\\Koko.Gui.XmlToGeneratedCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnnop\\.nuget\\packages\\apos.input\\2.4.1\\apos.input.2.4.1.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\cyotek.drawing.bitmapfont\\2.0.1\\cyotek.drawing.bitmapfont.2.0.1.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\fontstashsharp.monogame\\1.0.4\\fontstashsharp.monogame.1.0.4.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\stbimagesharp\\2.22.6\\stbimagesharp.2.22.6.nupkg.sha512",
+    "C:\\Users\\mnnop\\.nuget\\packages\\stbtruetypesharp\\1.24.8\\stbtruetypesharp.1.24.8.nupkg.sha512"
+  ],
+  "logs": []
+}
